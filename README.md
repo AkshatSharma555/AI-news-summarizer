@@ -88,7 +88,7 @@ cd frontend
 ```
 Install dependencies:
 ```
-npm install\
+npm install
 ```
 Start the React app:
 ```
@@ -107,8 +107,7 @@ Parameters:
 lang: en, hi, mr
 translate: true/false
 ```
-
-❗ ### Troubleshooting
+ ## Troubleshooting
 If models take long to load → It’s normal (first-time download from HuggingFace).
 
 If backend crashes with sentencepiece error → run pip install sentencepiece.
