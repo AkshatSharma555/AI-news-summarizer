@@ -88,7 +88,8 @@ cd frontend
 ```
 Install dependencies:
 ```
-npm install
+npm install\
+```
 Start the React app:
 ```
 npm start
@@ -96,7 +97,7 @@ npm start
 Open the app in browser:
 ```
 👉 http://localhost:3000
-
+```
 Summarize News:
 ```
 GET /summarize-news?lang=en&translate=false
